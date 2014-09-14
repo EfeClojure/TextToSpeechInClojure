@@ -1,0 +1,2 @@
+cmdhistory=["(set-engine \\"Google\\")" "(speak \\"Google\\")" "(speak \\"My name is Efe\\")" "engines" "(speak \\"Let's build a little little compiler.\\")" "(speak \\"For now I work for Gidi Mobile Ltd.\\")" "(require '[clj-commons.exec \:as exec])" "(require '[clj-commons-exec \:as exec])" "(set-engine \\"Windows\\")" "(speak \\"Efe\\")" "(.getCanonicalFile (clojure.java.io/file \\".\\"))" "(io/file \\".\\")" "(.getCanonical (io/file \\".\\"))" "(.getCanonicalFile (io/file \\".\\"))" "(engine-check)"]
+eclipse.preferences.version=1
