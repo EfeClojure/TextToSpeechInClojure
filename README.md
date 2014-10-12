@@ -1,13 +1,14 @@
 # SpeechSynthesis
 
-A Clojure library designed to ... well, that part is up to you.
+When you run the program, you type in something and it'll get spoken back to you.
 
-## Usage
+You'll have to have leiningen setup. 
 
-FIXME
+Run lein deps from the project's directory, in order to get all the 
+dependencies for the project.
 
-## License
+Then do lein run from the project's directory to see the program in action.
 
-Copyright © 2014 FIXME
+There is a bit of plagiarism involved  here. I simply cleaned up the code a bit
+and made it work on Windows. 
 
-Distributed under the Eclipse Public License, the same as Clojure.
